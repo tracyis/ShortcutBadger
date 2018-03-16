@@ -139,7 +139,7 @@ USAGE
 <br/>2. Add dependencies for ShortcutBadger, it's available from maven now.
         
         dependencies {
-            compile "me.leolin:ShortcutBadger:1.1.21@aar"
+           compile 'com.github.tracyis:ShortcutBadger:1.1.4'
         }
 
 <br/>3. Add the codes below:
